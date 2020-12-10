@@ -1,0 +1,1 @@
+To run the demo in Anaconda Prompt: python "path to test_voc_images.py" --input "path to images folder" --output "path to output folder"
